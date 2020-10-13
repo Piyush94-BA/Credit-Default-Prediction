@@ -1,4 +1,4 @@
-# Loan-Default-Classification
+# Credit-Default-Prediction
 The dataset contains 614 observations , 11 features, and one target variable.
 The features are: Income_of_Applicant, Income_of_Joint_Applicant, Loan_Amount_Requirement, Loan_Amount_Term, Credit_History, Gender, Is_Married, No_of_Dependents, Level_of_Education, IS_Self_Employed, Area_of_Property.
 The target variable is : Loan_Status
